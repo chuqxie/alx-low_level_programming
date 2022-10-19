@@ -1,7 +1,14 @@
 #include "main.h"
+
+/**
+* main - Read the code
+*
+* output - Always Return 0.
+*/
+
 int main(void)
 {
-putchar('_');
+_putchar('_');
 _putchar('p');
 _putchar('u');
 _putchar('t');
