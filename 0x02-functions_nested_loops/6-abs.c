@@ -1,7 +1,6 @@
 #include "main.h"
 
 /**
-
 * _abs - prints abs value
 * @n: char to print
 * Return: 0 on success
